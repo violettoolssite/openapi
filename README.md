@@ -1,6 +1,14 @@
 # OpenCode Zen API
 
-通过 OpenCode Zen 免费使用 Kimi K2.5、GLM 4.7、GPT-5 Nano、Trinity Large、Big Pickle 等最新模型
+通过 OpenCode Zen 免费使用最新 AI 模型
+
+| 免费模型 | 提供商 | 特点 |
+|----------|--------|------|
+| `glm-4.7-free` | Z.AI | 支持推理过程 |
+| `kimi-k2.5-free` | Moonshot | 支持推理过程 |
+| `gpt-5-nano` | OpenAI | - |
+| `trinity-large-preview-free` | Trinity | - |
+| `big-pickle` | Stealth | - |
 
 ## 端点
 

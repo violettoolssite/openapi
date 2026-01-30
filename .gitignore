@@ -1,0 +1,21 @@
+# 环境变量 (包含API密钥)
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# 调试文件
+debug_*.py
+
+# 系统文件
+.DS_Store
+Thumbs.db

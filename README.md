@@ -10,7 +10,14 @@
 | `trinity-large-preview-free` | Trinity | - |
 | `big-pickle` | Stealth | - |
 
-> ⚠️ 部分模型可能因服务器维护或资源限制暂时不可用
+> 部分模型可能因服务器维护或资源限制暂时不可用
+
+## api获取
+
+```
+从opencode zen官方获取
+官网地址: https://opencode.ai/workspace
+```
 
 ## 端点
 

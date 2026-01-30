@@ -16,7 +16,7 @@
 
 ```
 从opencode zen官方获取
-官网地址: https://opencode.ai/workspace
+官网地址: https://opencode.ai
 ```
 
 ## 端点

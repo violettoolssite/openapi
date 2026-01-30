@@ -10,6 +10,8 @@
 | `trinity-large-preview-free` | Trinity | - |
 | `big-pickle` | Stealth | - |
 
+> ⚠️ 部分模型可能因服务器维护或资源限制暂时不可用
+
 ## 端点
 
 ```

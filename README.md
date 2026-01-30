@@ -1,6 +1,6 @@
 # OpenCode Zen API
 
-通过 OpenCode Zen 免费使用 Kimi K2.5 和 GLM 4.7 最新模型
+通过 OpenCode Zen 免费使用 Kimi K2.5、GLM 4.7、GPT-5 Nano、Trinity Large、Big Pickle 等最新模型
 
 ## 端点
 

@@ -21,17 +21,6 @@ Base URL: https://opencode.ai/zen/v1
 | `/models` | GET | 获取模型列表 |
 | `/chat/completions` | POST | 对话补全 |
 
-## 免费模型
-
-| 模型ID | 提供商 | 状态 | 特点 |
-|--------|--------|------|------|
-| `glm-4.7-free` | Z.AI | 可用 | 支持推理过程 |
-| `kimi-k2.5-free` | Moonshot | 可用 | 支持推理过程 |
-| `gpt-5-nano` | OpenAI | 可用 | - |
-| `trinity-large-preview-free` | Trinity | 可用 | - |
-| `big-pickle` | Stealth | 可用 | - |
-| `minimax-m2.1-free` | MiniMax | 暂不可用 | - |
-
 ## 推理模型
 
 GLM-4.7 和 Kimi K2.5 支持推理过程输出，通过 `reasoning_content` 字段返回思考过程。

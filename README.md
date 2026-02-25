@@ -2,15 +2,22 @@
 
 通过 OpenCode Zen 免费使用最新 AI 模型
 
-| 免费模型 | 提供商 | 特点 |
-|----------|--------|------|
-| `glm-4.7-free` | Z.AI | 支持推理过程 |
-| `kimi-k2.5-free` | Moonshot | 支持推理过程 |
-| `gpt-5-nano` | OpenAI | - |
-| `trinity-large-preview-free` | Trinity | - |
-| `big-pickle` | Stealth | - |
+### 免费模型列表 (Free Series)
 
-> 部分模型可能因服务器维护或资源限制暂时不可用
+| 免费模型 ID | 提供商 | 说明 |
+|----------|--------|------|
+| `kimi-k2.5-free` | Moonshot AI | Kimi K2.5 Free (支持推理) |
+| `glm-5-free` | Z.ai | GLM 5 Free (最新推荐) |
+| `minimax-m2.5-free` | MiniMax | MiniMax M2.5 Free |
+| `minimax-m2.1-free` | MiniMax | MiniMax M2.1 Free |
+| `big-pickle` | Stealth | Big Pickle |
+| `trinity-large-preview-free` | Trinity | Trinity Large Preview |
+
+> [!TIP]
+> **稳定性说明**：部分免费模型（如 `glm-5-free`）在非流式请求下可能触发上游 API 内部错误 (`prompt_tokens`)。如果遇到 500 错误，请尝试开启流式输出 (`stream: true`)。
+
+> [!NOTE]
+> 该项目仅收录官方提供的免费系列模型。
 
 ## api获取
 
